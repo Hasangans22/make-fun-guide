@@ -1,8 +1,8 @@
 # Make.fun in an afternoon: from zero to your first bounty entry
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/Saaaann/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/Saaaann/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/hasangans22/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/hasangans22/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **Start here — my invite link:** https://make.fun/r/8wp4acsb
 >
